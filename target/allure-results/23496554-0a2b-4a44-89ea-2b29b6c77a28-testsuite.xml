@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1470076610074" stop="1470076610769" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Exam</name>
+    <title>Default Suite : Exam</title>
+    <test-cases>
+        <test-case start="1470076610283" stop="1470076610308" status="passed">
+            <name>test1[1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SATTVA"/>
+                <label name="thread" value="16364@SATTVA.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1470076610667" stop="1470076610668" status="passed">
+            <name>test1[2]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SATTVA"/>
+                <label name="thread" value="16364@SATTVA.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1470076610672" stop="1470076610672" status="passed">
+            <name>test1[3]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SATTVA"/>
+                <label name="thread" value="16364@SATTVA.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1470076610676" stop="1470076610677" status="passed">
+            <name>test1[4]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SATTVA"/>
+                <label name="thread" value="16364@SATTVA.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1470076610757" stop="1470076610757" status="passed">
+            <name>test1[5]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SATTVA"/>
+                <label name="thread" value="16364@SATTVA.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
